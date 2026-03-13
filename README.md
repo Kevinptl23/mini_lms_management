@@ -126,7 +126,7 @@ Admin can create centers with **ID and Password**, and the center can login usin
 ## 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/yourusername/mini-lms-system.git
+git clone https://github.com/yourusername/mini-lms-management.git
 ```
 
 ```
@@ -145,7 +145,7 @@ npm install
 Create `.env` file:
 
 ```
-PORT=5000
+PORT=8080
 MONGO_URI=your_mongodb_connection_string
 ```
 
