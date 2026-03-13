@@ -36,7 +36,6 @@ This project demonstrates **role-based dashboards, CRUD operations, and center-b
 ### Frontend
 
 * React.js
-* Bootstrap
 * Axios
 
 ### Backend
@@ -126,11 +125,11 @@ Admin can create centers with **ID and Password**, and the center can login usin
 ## 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/yourusername/mini-lms-management.git
+git clone https://github.com/Kevinptl23/mini_lms_management.git
 ```
 
 ```
-cd mini-lms-system
+cd mini-lms-management
 ```
 
 ---
@@ -200,34 +199,6 @@ http://localhost:5173
 * Available Courses
 * Active Admissions
 
----
-
-# 📸 Screenshots
-
-(Add screenshots here if needed)
-
-Example:
-
-```
-Admin Dashboard Screenshot
-Center Dashboard Screenshot
-Student Admission Form
-Course Management Page
-```
-
----
-
-# 🎯 Future Improvements
-
-* JWT Authentication
-* Role Based Authorization
-* Course Enrollment System
-* Payment Integration
-* Dashboard Analytics Charts
-* Student Search & Filter
-
----
-
 # 👨‍💻 Author
 
 **Kevin Ribadiya**
@@ -236,7 +207,7 @@ B.Tech Computer Science
 Parul University
 
 GitHub:
-https://github.com/yourusername
+https://github.com/Kevinptl23
 
 ---
 
